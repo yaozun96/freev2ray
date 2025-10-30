@@ -42,8 +42,6 @@ https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=16cf051db82a36fa
 | 📱 **Clash Meta for Android** | [Clash Meta for Android 使用指南](https://freeroad.org/clash-meta-for-android.html) | Android 代理客户端 |
 | 🍎 **Shadowrocket (iOS)** | [免费小火箭 Shadowrocket 共享账号](https://shadowrocket.best/) | iOS 平台专用客户端，共享 Apple ID 登录，实时更新可用 |
 
-> 🔧 所有教程均来自 [Clash 帮助中心](https://freeroad.org)，持续更新中，适合新手快速上手。
-
 ---
 
 ## ❤️ 支持项目
